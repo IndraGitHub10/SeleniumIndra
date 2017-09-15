@@ -1,5 +1,5 @@
 package Assignment;
-//adding two numbers
+//adding two numbers best code
 public class AddTwoNumbers {
 
 	public static void main(String[] args) {
